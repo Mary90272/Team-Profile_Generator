@@ -13,11 +13,13 @@ A Node command-line application that uses inquirer and takes in information abou
 
 
 ## Images of Deployed Application
+![alt text](assets/images/Screenshot_ourTeam.png)
 
 
 ## Video showing the functionality of the application
-
+![alt text](assets/video/team_.webm)
 
 ## Relevant Links
 
 ## Link video :
+https://drive.google.com/file/d/1BezTkJq_DdNIkxrEISjttsfR5Pi42Sqx/view
