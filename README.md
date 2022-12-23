@@ -17,7 +17,7 @@ A Node command-line application that uses inquirer and takes in information abou
 
 
 ## Video showing the functionality of the application
-![alt text](assets/video/team_.webm)
+![alt text](assets/video/team_.gif)
 
 ## Relevant Links
 
