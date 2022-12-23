@@ -1,0 +1,72 @@
+
+h1 {
+    Font-Family: 'Merriweather', Serif;
+    font-size: 45px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+span {
+    opacity: 0.6;
+}
+
+body, html {
+    height: 100%;
+}
+
+body {
+    Font-Family: 'Muli', Sans-Serif;
+    background-color:#F1E4EC;
+    height: 100%;
+    color: #5E314D;
+}
+
+.jumbotron {
+    background: #8B5565;
+}
+
+.employee-card {
+    border-radius: 10px;
+    border-color:none;
+    box-shadow: 5px 3px 9px 1px #502A42;
+}
+
+
+.manager-header {
+    background:#DCBCD0; 
+}
+
+.engineer-header {
+    background: #DCBCD0;
+}
+
+.intern-header {
+    background: #DCBCD0;
+}
+
+.card-body {
+    
+    color: #502A42;
+}
+
+a {
+    color: #28333E;
+}
+
+.card:hover {
+    box-shadow: 5px 3px 9px 1px #28333E;
+	transform: scale(0.98);
+    transition: all 0.6s ease;
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
